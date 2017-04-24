@@ -1,0 +1,54 @@
+{
+  data: [
+    {
+      firstname: "Sergio",
+      lastname: "Boyko",
+      email: "sb@company.com",
+      address: "342 Ave",
+      city: "Elizabeth",
+      state: "NJ",
+      type: "Vendor",
+      phonenumber: "233-111-2244"
+    },
+    {
+      firstname: "Sergio",
+      lastname: "Boyko",
+      email: "sb@company.com",
+      address: "342 Ave",
+      city: "Elizabeth",
+      state: "NJ",
+      type: "Vendor",
+      phonenumber: "233-111-2244"
+    },
+    {
+      firstname: "Sergio",
+      lastname: "Boyko",
+      email: "sb@company.com",
+      address: "342 Ave",
+      city: "Elizabeth",
+      state: "NJ",
+      type: "Vendor",
+      phonenumber: "233-111-2244"
+    },
+    {
+      firstname: "Sergio",
+      lastname: "Boyko",
+      email: "sb@company.com",
+      address: "342 Ave",
+      city: "Elizabeth",
+      state: "NJ",
+      type: "Vendor",
+      phonenumber: "233-111-2244"
+    },
+    {
+      firstname: "Sergio",
+      lastname: "Boyko",
+      email: "sb@company.com",
+      address: "342 Ave",
+      city: "Elizabeth",
+      state: "NJ",
+      type: "Vendor",
+      phonenumber: "233-111-2244"
+    }
+  ]
+}
